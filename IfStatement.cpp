@@ -4,7 +4,6 @@ using namespace std;
 
 int main ()
 {
-	char choice;
 	cout << "Is it raining today? [y/n]: ";
 	cin >> choice;
 	if (choice == 'y') {
